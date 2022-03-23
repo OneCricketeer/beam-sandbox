@@ -1,0 +1,6 @@
+@namespace("cricket.jmoore.avro")
+protocol BeamExample {
+	record Product {
+		string name;
+	}
+}
